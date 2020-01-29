@@ -3,3 +3,5 @@ A WIP website that uses [Snoowrap](https://not-an-aardvark.github.io/snoowrap/sn
 
 ## To Do:
 - [ ] Add more to this readme
+- [ ] Actually add some CSS styling
+- [ ] Make the submit button do something
