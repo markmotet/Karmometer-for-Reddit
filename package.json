@@ -10,7 +10,7 @@
   "author": "markmotet",
   "license": "ISC",
   "dependencies": {
-    "apexcharts": "^3.14.0",
+    "apexcharts": "^3.24.0",
     "snoowrap": "^1.20.1"
   },
   "devDependencies": {
